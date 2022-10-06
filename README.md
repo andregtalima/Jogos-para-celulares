@@ -4,5 +4,5 @@
 
 Para rodar esse projeto, por favor, baixe o:
 ```
-npm install
+Node App.js
 ```
